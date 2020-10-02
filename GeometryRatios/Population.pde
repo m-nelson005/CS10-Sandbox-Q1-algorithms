@@ -29,33 +29,7 @@ void population() {
   measlesY = random(height);
   measlesDiameter = random(height*1/20, height*1/10);
   //
-  triangle1X1 = width/2;
-  triangle1Y1 = height*0/4;
-  triangle1X2 = width*2/12;
-  triangle1Y2 = height*0/4;
-  triangle1X3 = width*2/12;
-  triangle1Y3 = height*5/12;
-  //
-  triangle2X1 = width;
-  triangle2Y1 = height;
-  triangle2X2 = width;
-  triangle2Y2 = height;
-  triangle2X3 = width;
-  triangle2Y3 = height;
-  //
-  triangle3X1 = width;
-  triangle3Y1 = height;
-  triangle3X2 = width;
-  triangle3Y2 = height;
-  triangle3X3 = width;
-  triangle3Y3 = height;
-  //
-  triangle4X1 = width;
-  triangle4Y1 = height;
-  triangle4X2 = width;
-  triangle4Y2 = height;
-  triangle4X3 = width;
-  triangle4Y3 = height;
+  
   //
   buttonX = width*15/16;
   buttonY = height*0/7;
